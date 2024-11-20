@@ -45,12 +45,13 @@
 </p>
 <br></br>
 
-<h2 align="center"> 🧠 domain experience 🧠</h2>
+<h2 align="center"> 🧠 domain expertise 🧠</h2>
 <p align="center"> 🕵🏽‍♀️ anomaly / outlier detection</p>
 <p align="center"> ☎️ LLM fine-tuning and prompt engineering</p>
 <p align="center"> 🗺️ exploratory data analysis</p>
 <p align="center"> 🕸️ full-stack web development</p>
 <p align="center"> 📚 mathematical foundations of ML models</p>
+<p align="center"> 📊 data communication and design</p>
 <br></br>
 
 <h2 align="center">🖥️  tech stack repertoire  🖥️  </h2>
