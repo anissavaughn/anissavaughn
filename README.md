@@ -1,4 +1,4 @@
-<h2 align="center">✨ anissa vaughn: the data empress ✨</h2>
+<h2 align="center">👸🏽 anissa vaughn: the data empress 👸🏽</h2>
 <p align="center"> ⚙️ former ML engineer @ genentech </p>
 <p align="center"> 👩🏽‍💻 1099 independent contractor in AI, analytics & product</p>
 <p align="center"> 🏆 2x hackathon winner @ NACME and mathworks</p>
